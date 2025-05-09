@@ -4,7 +4,7 @@ I'm a network engineer with over 18 years of experience in enterprise and servic
 
 - 🔭 I’m currently working on CICD pipelines for Networks. Idea is to build a container based lab that can take a topology file and build lab, use my existing gns3-ansible container to build configurations and then on each configuration change test it on the created lab.
 ### Certifications
-[x] CCIE Service Provider (# 48102)
+[] CCIE Service Provider (# 48102)
 [x] AWS Certified Solutions Architect Associate
 
 #### Online Courses/Trainings
