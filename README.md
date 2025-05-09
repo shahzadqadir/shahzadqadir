@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Professional Summary
 
 I'm a network engineer with over 18 years of experience in enterprise and service provider environments, and I hold a CCIE Service Provider certification (#48102, Emeritus). About a decade ago, I began shifting toward automation, using Python to move away from manual CLI work. Today, I primarily interact with network devices through APIs and build automation tools using Python and Django. I’ve also developed in Java, but my current work focuses on full-stack solutions using Python and Django. In my spare time, I create tools for my day to day needs, like I have developed goal tracker using Django, PostgreSQL, and Docker - where I can define my long term goals, divide them into objectives, and assign them tasks per Sprint, I have also connected it to my Google Calendar so when I define my Sprint it gets synced up to my calendar.
