@@ -13,6 +13,11 @@ MSc. Mobile Computing and Communications (2006)
 - [Cloud Computing Foundations- Duke University, Coursera](https://www.coursera.org/account/accomplishments/verify/EGRVCRA5YLW6)
 - [Network Automation Engineering Fundamentals, Cisco, Coursera](https://www.coursera.org/account/accomplishments/specialization/49X46XRPR7HE)<br>
 - [Java Programming and Software Engineering Fundamentals, Duke University, Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/4H4BSEMNJQ3N)
+
+#### Udemy Instructor for 
+- [X] [Ansible for Network Engineers - Cisco IOS, Junos, Arista](https://www.udemy.com/course/complete-ansible-for-network-engineers-ios-junos-arista/?referralCode=C0F8D511BEA2C5B5880F)
+- [X] [BGP for Juniper](https://www.udemy.com/course/bgp-for-juniper-jncis-jncip/?referralCode=F26B9F90CBFC86D4505F)
+- [X] [Complete OSPF for Juniper JNCIS JNCIP](https://www.udemy.com/course/ospf-for-juniper-jncis-jncip/?referralCode=F47E9AA8C039232C82A3)
 <!--
 **shahzadqadir/shahzadqadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
