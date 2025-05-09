@@ -11,7 +11,7 @@ MSc. Mobile Computing and Communications (2006)
 
 #### Online Courses/Trainings
 - [Cloud Computing Foundations- Duke University, Coursera](https://www.coursera.org/account/accomplishments/verify/EGRVCRA5YLW6)
-- [Network Automation Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/49X46XRPR7HE)<br>
+- [Network Automation Engineering Fundamentals, Cisco(Coursera)](https://www.coursera.org/account/accomplishments/specialization/49X46XRPR7HE)<br>
 - [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/4H4BSEMNJQ3N)
 <!--
 **shahzadqadir/shahzadqadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
