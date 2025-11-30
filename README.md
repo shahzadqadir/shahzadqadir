@@ -2,8 +2,20 @@
 
 I'm a network engineer with over 18 years of experience in enterprise and service provider environments, and I hold a CCIE Service Provider certification (#48102, Emeritus). About a decade ago, I began shifting toward automation, using Python to move away from manual CLI work. Today, I primarily interact with network devices through APIs and build automation tools using Python and Django. I’ve also developed in Java, but my current work focuses on full-stack solutions using Python and Django. In my spare time, I create tools for my day to day needs, like I have developed goal tracker using Django, PostgreSQL, and Docker - where I can define my long term goals, divide them into objectives, and assign them tasks per Sprint, I have also connected it to my Google Calendar so when I define my Sprint it gets synced up to my calendar.
 
-- 🔭 I’m currently working on CICD pipelines for Networks. Idea is to build a container based lab that can take a topology file and build lab, use my existing gns3-ansible container to build configurations and then on each configuration change test it on the created lab.
-- 🔭 Working on my book on full stack network automation using Python, Django, and MySQL.
+<p align="center">
+  <a href="https://www.amazon.co.uk/dp/B0FWPHTLP9">
+    <img src="https://img.shields.io/badge/📘%20Buy%20the%20Book-Full%20Stack%20Network%20Automation-blue?style=for-the-badge" alt="Buy the Book">
+  </a>
+  <a href="https://shahzadqadir.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-shahzadqadir.com-lightgrey?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://github.com/shahzadqadir">
+    <img src="https://img.shields.io/badge/💻%20GitHub-Profile-black?style=for-the-badge" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/shahzadqadir">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Profile">
+  </a>
+</p>
   
 ### Education
 MSc. Mobile Computing and Communications (2006)
