@@ -4,13 +4,10 @@ I'm a network engineer with over 18 years of experience in enterprise and servic
 
 <p align="center">
   <a href="https://www.amazon.co.uk/dp/B0FWPHTLP9">
-    <img src="https://img.shields.io/badge/📘%20Buy%20the%20Book-Full%20Stack%20Network%20Automation-blue?style=for-the-badge" alt="Buy the Book">
+    <img src="https://img.shields.io/badge/📘%20Buy%20the%20Book-Full%20Stack%20Network%20Automation-blue?style=for-the-badge" alt="Buy my Book">
   </a>
   <a href="https://shahzadqadir.com">
     <img src="https://img.shields.io/badge/🌐%20Website-shahzadqadir.com-lightgrey?style=for-the-badge" alt="Website">
-  </a>
-  <a href="https://github.com/shahzadqadir">
-    <img src="https://img.shields.io/badge/💻%20GitHub-Profile-black?style=for-the-badge" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/shahzadqadir">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Profile">
