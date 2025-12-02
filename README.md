@@ -12,7 +12,7 @@ I'm a network engineer with over 18 years of experience in enterprise and servic
 
   <!-- Direct Purchase: PDF via Gumroad -->
   <a href="https://shahzad112.gumroad.com/l/fullstack-network-automation" target="_blank">
-    <img src="https://img.shields.io/badge/💾%20Buy%20My%20Book-Direct%20PDF%20Download-brightgreen?style=for-the-badge"
+    <img src="https://img.shields.io/badge/💾%20Buy%20My%20Book-Direct%20PDF%20Download-orange?style=for-the-badge"
          alt="Buy My Book Direct (PDF)">
   </a>
 
